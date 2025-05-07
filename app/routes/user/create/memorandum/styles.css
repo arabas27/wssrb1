@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "TH_Sarabun_New";
+  src: url("/app/assets/fonts/THSarabunNew/THSarabunNew.ttf"),
+    url("/app/assets/fonts/THSarabunNew/THSarabunNew\ Bold.ttf"),
+    url("/app/assets/fonts/THSarabunNew/THSarabunNew\ Italic.ttf");
+}
+
+.th-sarabun-new {
+  font-family: "TH_Sarabun_New";
+}
